@@ -1,0 +1,3 @@
+# Instagram clone
+- First day of commit, expect bugs in this project...
+- Still under development
